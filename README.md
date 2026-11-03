@@ -43,8 +43,7 @@
 6. **Завершение.**
 
 ### Блок-схема
-
-<img width="452" height="1753" alt="дз6 drawio" src="https://github.com/user-attachments/assets/51427d85-960c-4969-94d9-d5e3757d030b" />
+<img width="710" height="2094" alt="дз6 drawio (1)" src="https://github.com/user-attachments/assets/7b8a94b9-a9df-4d99-a35f-56fac086d8e9" />
 
 
 ## 2. Реализация программы
