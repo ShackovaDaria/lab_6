@@ -73,5 +73,6 @@ double z3_time(int h, int m) {
     
     if (t <= 0) {
         t += 720.0 / 11.0; 
+    }
     return t;
 }
